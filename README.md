@@ -7,6 +7,11 @@ cheatsheet俗称小抄，一份小抄一般包含了不到5页资料，概括了
 
 *[校招微信交流群](http://initoffer.oss-cn-shanghai.aliyuncs.com/campusHireGroup.jpeg) / [算法微信交流群](http://initoffer.oss-cn-shanghai.aliyuncs.com/algorithmGroup.jpeg) / [开发微信交流群](http://initoffer.oss-cn-shanghai.aliyuncs.com/developGroup.jpeg)* 点击查看二维码，欢迎大家加入交流。
 
+---
+脚本 download.sh 用于下载本文列出的所有pdf，注意有些文件的下载需要科学上网。
+```
+bash download.sh
+```
 
 ---
 + [Git](#git)
@@ -34,7 +39,7 @@ cheatsheet俗称小抄，一份小抄一般包含了不到5页资料，概括了
     * [Python Language & Syntax Cheat Sheet](http://scribestools.readthedocs.io/en/latest/_downloads/python-cheat-sheet-a.pdf)
     * [Python 2.7 quick reference sheet](https://www.di.ens.fr/~zhentao/intropython/Python_qr.pdf)
     * [Python 3 cheat sheet (the basics)](http://4code.dk/wp-content/uploads/2015/02/cheatsheet-python-grok.pdf)
-    * [Python 3 cheat sheet ](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+    * [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 * <a name='c/cpp'>C/C++</a>
     * [C Reference Card (ANSI)](http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf)
     * [C++11 STL additions](http://cpprocks.com/files/c++11-stl-cheatsheet.pdf)
@@ -73,7 +78,7 @@ cheatsheet俗称小抄，一份小抄一般包含了不到5页资料，概括了
     * [matlab quick reference](http://www.cs.cmu.edu/~tom/10601_fall2012/recitations/matlab_quickref.pdf)
 * <a name='markdown'>Markdown</a>
     * [markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)    
-    * [markdown quick reference ](http://geog.uoregon.edu/bartlein/courses/geog607/Rmd/MDquick-refcard.pdf)
+    * [markdown quick reference](http://geog.uoregon.edu/bartlein/courses/geog607/Rmd/MDquick-refcard.pdf)
 * <a name='vim'>Vim</a>
     * [vi quick reference](http://www.digilife.be/quickreferences/QRC/vi%20Quick%20Reference.pdf)
     * [vim quick reference card](http://www.digilife.be/quickreferences/qrc/vim%20quick%20reference%20card.pdf)
