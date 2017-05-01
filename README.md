@@ -112,5 +112,7 @@ bash download.sh
 * <a name='others'>Others</a>
     * [getting started with selenium](http://seleniumrecipes.com/sites/default/files/rc067-010d-selenium-1.pdf)
 	* [regular expressions cheat sheet](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
+	* [design pattern reference card](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
+	* [design pattern cheat sheet](http://www.lug.or.kr/files/cheat_sheet/design_pattern_cheatsheet_v1.pdf)
 
 _所有资料均来自互联网，侵删。_
